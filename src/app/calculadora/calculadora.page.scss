@@ -1,0 +1,9 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: rgb(255, 251, 251);
+
+ion-textarea {
+  font: 100% $font-stack;
+  color: $primary-color;
+  display: block;
+    padding: 6px 12px;
+}
